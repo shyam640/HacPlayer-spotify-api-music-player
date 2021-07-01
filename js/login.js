@@ -1,4 +1,4 @@
-var redirect_uri = "http://127.0.0.1:5500/online.html";
+var redirect_uri = "https://shyam640.github.io/HacPlayer-spotify-api-music-player/online.html";
 
 var client_ID = "";
 var secret_ID = "";
