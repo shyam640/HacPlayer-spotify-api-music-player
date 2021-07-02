@@ -1,5 +1,7 @@
 # HacPlayer-spotify-api-music-player
 This Music Player i.e. HacPlayer is part of my Real world JS implementation and is created to understand all the functionalities of API.
+
+
 <img src = "HacPlayer.png" alt = "HacPlayer Image!"/>
 
 # Core Features of web player
@@ -10,6 +12,8 @@ This Music Player i.e. HacPlayer is part of my Real world JS implementation and 
 5. Get user's playlists tracks.
 6. Get user's Album.
 7. An inbuit player for playing songs.
+
+
 
 # Updates
 1.0 - Above features available.
